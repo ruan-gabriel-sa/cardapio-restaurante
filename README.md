@@ -69,7 +69,7 @@ Este é um projeto desenvolvido para apresentar um cardápio digital interativo 
 
 1. **Clonar o repositório**:
 
-   git clone <url-do-repositorio>
+   git clone (https://github.com/ruan-gabriel-sa/cardapio-restaurante)
 
 2. Instalar as dependências:
 
