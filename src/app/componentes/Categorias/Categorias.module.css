@@ -1,0 +1,53 @@
+.secao_categoria {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container_btn {
+    max-width: 1024px;
+    width: 100%;
+    display: flex;
+    gap: 10px;
+}
+
+.secao_btn {
+    padding: 0 10px;
+    max-width: 200px;
+    height: 40px;
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.secao_btn img,
+.secao_btn_marcado img {
+    width: 20px;
+    height: 20px;
+}
+
+.secao_btn span,
+.secao_btn_marcado span {
+    font-size: 14px;
+}
+
+.secao_btn_marcado {
+    padding: 0 10px;
+    max-width: 200px;
+    height: 40px;
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    background-color: #daa520;
+}
